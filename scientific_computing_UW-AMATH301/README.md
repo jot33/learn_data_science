@@ -4,7 +4,7 @@
 
 - Coursework from scientific computing course taken at University of Washington.
 - Content posted with verbal permission from Professor J. Nathan Kutz.
-- Course website: [](http://faculty.washington.edu/kutz/am301/am301.html)
+- [Course Website](http://faculty.washington.edu/kutz/am301/am301.html)
     - [Course Notes 1](https://faculty.washington.edu/kutz/301.pdf)
     - [Course Notes 2](https://faculty.washington.edu/kutz/581.pdf)
     - [Course Notes 3](https://faculty.washington.edu/kutz/582.pdf)
